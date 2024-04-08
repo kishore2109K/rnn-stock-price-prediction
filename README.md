@@ -24,9 +24,6 @@ Fit the model and then predict.
 
 
 ## Program
-#### Name:Kishore K
-#### Register Number:
-
 ### Name: Kishore K
 ### Register Number: 212223040101
 ```
